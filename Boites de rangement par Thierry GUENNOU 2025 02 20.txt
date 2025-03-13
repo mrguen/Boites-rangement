@@ -1,0 +1,17 @@
+Création de la BDD "Boites de rangement", par Thierry GUENNOU le 20 février 2025, selon le cahier des charges créé par Simplon,
+intitulé "BRIEF PROJET - Créer une base de données":
+
+- Utilisation de PowerAMC
+	- Modèle conceptuel de données
+	- Modèle logique de données
+	- Modèle Physique de données pour SQL server 2008
+	- Script de création de base
+
+Le modèle comporte 3 règles de gestion
+- Dimension_maximale_boite : Longueur + Largeur + Hauteur < 1000
+- Format_ID_client: id_client LIKE '[a-z][a-z]-[0-9][0-9][0-9]'
+- Prix_lot_boite: non implémenté, à vérifier auprès du responsable fonctionnel, dépend de
+	- la matière
+	- la couleur
+	- la surface extérieure de la boite
+	- la remise sur volume 

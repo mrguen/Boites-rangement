@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{60B0183B-94A2-488D-A342-A032B0A79A1E}" Name="Boites_de_rangement" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="Boites_de_rangement.mcd"/>
+		<Model Expanded="Yes" ID="{BE21F37D-F42D-46CC-A05D-BEC52BA02C82}" Name="Boites_de_rangement" Type="{5F45F978-C4F3-4E35-A3FC-AF3318663A0F}" URL="Boites_de_rangement.mld"/>
+		<Model Expanded="Yes" ID="{1E03F3F1-8AF6-4C51-B157-22C9C5ADFA01}" Name="Boites_de_rangement" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Boites_de_rangement.mpd"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
